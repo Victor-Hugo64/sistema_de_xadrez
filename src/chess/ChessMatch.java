@@ -196,4 +196,5 @@ public class ChessMatch {
 		placeNewPiece('a', 8, new King(board, Color.BLACK));
 	}
 
+	
 }
